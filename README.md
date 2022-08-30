@@ -10,7 +10,7 @@
 <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif">
 </div>
 <div>
-  <h2>⇨A Little Bit About Me... </h2>
+  <h2>⇨A Little Bit About Me... 👨🏻‍💻</h2>
   
   ```js
   const personalInfo = () => {
@@ -45,4 +45,12 @@ Const currently_Learning = () => {
 }
 // Dream: Master of God-tier stack in Programming😁
   ```
+</div>
+<div>
+<h2>⇨My Accomplishment🎓</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,vuejs,php,cpp,react,firebase,mongodb,mysql,figma,git,heroku,vercel,netlify" />
+  </a>
+</p>
 </div>
