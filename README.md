@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hello%20Everyone!👋&fontSize=90&animation=blink)
+![Header](./github-header-image.png)
 <h1 align="center">Let's Connect and have a Conversation!💬</h1>
 <div align="center">
   <a href="https://twitter.com/syedtalaljilani"><img src="https://cdn-icons-png.flaticon.com/512/2335/2335289.png" width=100 ></a>
