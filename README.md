@@ -50,7 +50,7 @@ Const currently_Learning = () => {
 <h2>⇨My Accomplishment🎓</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,vuejs,php,cpp,react,firebase,mongodb,mysql,figma,git,heroku,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,vuejs,php,cpp,react,firebase,mongodb,mysql,figma,git,heroku,vercel,netlify,wordpress" />
   </a>
 </p>
 </div>
