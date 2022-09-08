@@ -38,7 +38,7 @@ const tech_Background = () => {
   Starting = "1 Sept 2022"
   Ending = "30 Sept 2022"  
 }
-Const currently_Learning = () => {
+const currently_Learning = () => {
   Langauge = "C++ and Javascript";
   Tool = "Git and Github";
   Framework = "Bootstrap and Vue.js";  
