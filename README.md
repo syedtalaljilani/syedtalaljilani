@@ -1,6 +1,6 @@
 # Hi there, I'm Syed Talal Jilani! 👋
 
-[![Banner](https://your-banner-url.com)](https://your-profile-url.com)
+
 
 I'm a SaaS Developer and Penetration Tester passionate about building robust and secure applications. Welcome to my GitHub profile! Here, you'll find a mix of personal projects, open-source contributions, and some fun stuff.
 
