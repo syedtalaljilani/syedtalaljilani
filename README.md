@@ -40,4 +40,7 @@ I'm a SaaS Developer and Penetration Tester passionate about building robust and
 ## Commit Graph with Snake Game
 
 <!-- Insert the code or link to your commit graph with Snake Game here -->
+## Get in touch
 
+<!-- Your Contact Links -->
+[LinkedIn](https://www.linkedin.com/in/your-linkedin-username/) | [Portfolio](https://your-portfolio-link) | [Email](mailto:youremail@example.com) | [Twitter](https://twitter.com/your-twitter-username)
