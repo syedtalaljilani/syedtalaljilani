@@ -29,13 +29,13 @@ I'm a SaaS Developer and Penetration Tester passionate about building robust and
 
 ## GitHub Insights
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedtalaljilani&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedtalaljilani&show_icons=true&theme=dark&count_private=true)
 
 ## Language Chart
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedtalaljilani&theme=dark)
 
 ## Commit Graph with Snake Game
 
