@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Talal Jilani</h1>
-<h3 align="center">A passionate Software Developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <p><a href="https://holopin.io/@syedtalaljilani"><img src="https://holopin.me/syedtalaljilani" alt="An image of @syedtalaljilani&#39;s Holopin badges, which is a link to view their full Holopin profile"></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedtalaljilani&label=Profile%20views&color=0e75b6&style=flat" alt="syedtalaljilani" /> </p>
