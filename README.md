@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedtalaljilani&label=Profile%20views&color=0e75b6&style=flat" alt="syedtalaljilani" /> </p>
 
 ###
-<img  src="https://www.bing.com/th/id/OGC.54c9af226721e95539a5cd9592d635bb?pid=1.7&rurl=https%3a%2f%2fstore.outsourcingpundit.com%2fwp-content%2fuploads%2f2019%2f01%2ffocus-animation.gif&ehk=enPb515IOw7X1Eadn4RJwSzKFQ%2flx2l4UIZOvZL%2f5mg%3d"  />
+<img  height='300' align='right' src="https://www.bing.com/th/id/OGC.54c9af226721e95539a5cd9592d635bb?pid=1.7&rurl=https%3a%2f%2fstore.outsourcingpundit.com%2fwp-content%2fuploads%2f2019%2f01%2ffocus-animation.gif&ehk=enPb515IOw7X1Eadn4RJwSzKFQ%2flx2l4UIZOvZL%2f5mg%3d"  />
 <p align="left"> <a href="https://twitter.com/syedtalalj" target="blank"><img src="https://img.shields.io/twitter/follow/syedtalalj?logo=twitter&style=for-the-badge" alt="syedtalalj" /></a> </p>
 
 - 🔭 I’m currently working on **Project X**
