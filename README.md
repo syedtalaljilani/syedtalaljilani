@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Syed Talal Jilani and I'm a Software Engineer, from Pakistan</h2>
 
 ###
-<img height='300' src="https://www.bing.com/th/id/OGC.54c9af226721e95539a5cd9592d635bb?pid=1.7&rurl=https%3a%2f%2fstore.outsourcingpundit.com%2fwp-content%2fuploads%2f2019%2f01%2ffocus-animation.gif&ehk=enPb515IOw7X1Eadn4RJwSzKFQ%2flx2l4UIZOvZL%2f5mg%3d"  />
+<img  src="https://www.bing.com/th/id/OGC.54c9af226721e95539a5cd9592d635bb?pid=1.7&rurl=https%3a%2f%2fstore.outsourcingpundit.com%2fwp-content%2fuploads%2f2019%2f01%2ffocus-animation.gif&ehk=enPb515IOw7X1Eadn4RJwSzKFQ%2flx2l4UIZOvZL%2f5mg%3d"  />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syedtalaljilani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
