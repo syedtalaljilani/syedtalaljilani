@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Syed Talal Jilani and I'm a Software Engineer(Web,App,and CyberSecurity), from Pakistan</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedtalaljilani&label=Profile%20views&color=0e75b6&style=flat" alt="syedtalaljilani" /> </p>
-<p><a href="https://holopin.io/@syedtalaljilani"><img src="https://holopin.me/syedtalaljilani" alt="An image of @syedtalaljilani&#39;s Holopin badges, which is a link to view their full Holopin profile"></a></p>
+
 <img  height='200' align='right' src="https://www.bing.com/th/id/OGC.54c9af226721e95539a5cd9592d635bb?pid=1.7&rurl=https%3a%2f%2fstore.outsourcingpundit.com%2fwp-content%2fuploads%2f2019%2f01%2ffocus-animation.gif&ehk=enPb515IOw7X1Eadn4RJwSzKFQ%2flx2l4UIZOvZL%2f5mg%3d"  />
 
 <p align="left"> <a href="https://twitter.com/syedtalalj" target="blank"><img src="https://img.shields.io/twitter/follow/syedtalalj?logo=twitter&style=for-the-badge" alt="syedtalalj" /></a> </p>
@@ -65,6 +65,7 @@
 </div>
 
 ###
+<p><a href="https://holopin.io/@syedtalaljilani"><img src="https://holopin.me/syedtalaljilani" alt="An image of @syedtalaljilani&#39;s Holopin badges, which is a link to view their full Holopin profile"></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
