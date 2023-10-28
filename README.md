@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Project X**
 
-- 👨‍💻 All of my projects are available at [syedtalaljilani.netlify.com](www.syedtalaljilani.netlify.com)
+- 👨‍💻 All of my projects are available at <a href="www.syedtalaljilani.netlify.com">syedtalaljilani.netlify.com</a>
 
 - 💬 Ask me about **Full Stack Web, App, and CyberSecurity**
 
