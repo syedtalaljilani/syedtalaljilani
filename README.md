@@ -76,7 +76,7 @@
 <a href="https://fb.com/syedtalaljilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syedtalaljilani" height="30" width="40" /></a>
 <a href="https://instagram.com/syedtalaljilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedtalaljilani" height="30" width="40" /></a>
 </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=syedtalaljilani)](https://github.com/ryo-ma/github-profile-trophy)
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
