@@ -19,9 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=syedtalaljilani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedtalaljilani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -65,22 +62,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
 </div>
-
 ###
 <p><a href="https://holopin.io/@syedtalaljilani"><img src="https://holopin.me/syedtalaljilani" alt="An image of @syedtalaljilani&#39;s Holopin badges, which is a link to view their full Holopin profile"></a></p>
-<img align="center" src='https://islamic-qoutes.cyclic.app' width='500' height="500" alt='samadpls/Islamic-quotes>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+<br clear="both">
 <a href="https://twitter.com/syedtalalj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedtalalj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/syedtalaljilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedtalaljilani" height="30" width="40" /></a>
 <a href="https://fb.com/syedtalaljilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syedtalaljilani" height="30" width="40" /></a>
 <a href="https://instagram.com/syedtalaljilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedtalaljilani" height="30" width="40" /></a>
 </p>
-<p><a href="https://github.com/syedtalaljilani/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedtalaljilani" alt="trophy"></a></p>
 <br clear="both">
-
+<p><a href="https://github.com/syedtalaljilani/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedtalaljilani" alt="trophy"></a></p>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
 
  
