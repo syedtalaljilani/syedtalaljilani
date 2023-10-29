@@ -68,10 +68,10 @@
 
 ###
 <p><a href="https://holopin.io/@syedtalaljilani"><img src="https://holopin.me/syedtalaljilani" alt="An image of @syedtalaljilani&#39;s Holopin badges, which is a link to view their full Holopin profile"></a></p>
-
+<a href='https://github.com/samadpls/Islamic-qoutes'><img align='center' src='https://islamic-qoutes.cyclic.app' width='500' alt='samadpls/islamic-qoutes'></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/syedtalalj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedtalalj" height="30" width="40" /></a>
+<a href="https://twitter.com/syedtalalj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedtalalj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/syedtalaljilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedtalaljilani" height="30" width="40" /></a>
 <a href="https://fb.com/syedtalaljilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syedtalaljilani" height="30" width="40" /></a>
 <a href="https://instagram.com/syedtalaljilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedtalaljilani" height="30" width="40" /></a>
@@ -82,3 +82,5 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
+
+ 
