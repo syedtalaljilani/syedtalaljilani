@@ -68,7 +68,7 @@
 
 ###
 <p><a href="https://holopin.io/@syedtalaljilani"><img src="https://holopin.me/syedtalaljilani" alt="An image of @syedtalaljilani&#39;s Holopin badges, which is a link to view their full Holopin profile"></a></p>
-<a href='https://github.com/samadpls/Islamic-qoutes'><img align="center" src='https://islamic-qoutes.cyclic.app' width='500' height="500" alt='samadpls/islamic-qoutes'></a>
+<img align="center" src='https://islamic-qoutes.cyclic.app' width='500' height="500" alt='samadpls/Islamic-quotes>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/syedtalalj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedtalalj" height="30" width="40" /></a>
