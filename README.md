@@ -21,7 +21,8 @@
 <p align="left"> 
   <strong>🔭 Currently working on:</strong> Project X
   <br>
-  <strong>💬 Ask me about:</strong> Full Stack Web, App, and CyberSecurity
+  <strong>💬 Ask me about:</strong> Frontend production-grade topics like responsive design, performance optimization, and advanced JavaScript frameworks. Backend production-grade areas such as scalable architecture, database optimization, and server-side technologies.
+
   <br>
   <strong>📫 How to reach me:</strong> <a href="mailto:syedtalaljilani.dev@gmail.com">syedtalaljilani.dev@gmail.com</a>
 
