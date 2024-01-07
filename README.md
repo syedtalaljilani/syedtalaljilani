@@ -67,19 +67,12 @@
 <!-- Social Media and Connect Section -->
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/syedtalalj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedtalalj" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/syedtalaljilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedtalaljilani" height="30" width="40" /></a>
-  <a href="https://fb.com/syedtalaljilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syedtalaljilani" height="30" width="40" /></a>
-  <a href="https://instagram.com/syedtalaljilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedtalaljilani" height="30" width="40" /></a>
+  <a href="https://twitter.com/syedtalalj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedtalalj" height="50" width="60" /></a>
+  <a href="https://linkedin.com/in/syedtalaljilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedtalaljilani" height="50" width="60" /></a>
+  <a href="https://fb.com/syedtalaljilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syedtalaljilani" height="50" width="60" /></a>
+  <a href="https://instagram.com/syedtalaljilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedtalaljilani" height="50" width="60" /></a>
 </p>
+
 
 <!-- Holopin and Trophy Section -->
-<p>
-  <a href="https://holopin.io/@syedtalaljilani"><img src="https://holopin.me/syedtalaljilani" alt="An image of @syedtalaljilani's Holopin badges, which is a link to view their full Holopin profile"></a>
-</p>
-<p>
-  <a href="https://github.com/syedtalaljilani/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedtalaljilani" alt="trophy"></a>
-</p>
 
-<!-- GitHub Contribution Snake Animation -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
