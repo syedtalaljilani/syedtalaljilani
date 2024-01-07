@@ -19,7 +19,7 @@
 
 <!-- Current Work and Contact Section -->
 <p align="left"> 
-  <strong>🔭 Currently working on:</strong> Project X
+  <strong>🔭 Currently working on:</strong> Fiyxer
   <br>
   <strong>💬 Ask me about:</strong> Frontend production-grade topics like responsive design, performance optimization, and advanced JavaScript frameworks. Backend production-grade areas such as scalable architecture, database optimization, and server-side technologies.
 
