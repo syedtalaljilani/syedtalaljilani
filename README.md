@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="syedtalaljilani.png" height="300">
+  <img src="start.gif">
   </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedtalaljilani&label=Profile%20views&color=0e75b6&style=flat" alt="syedtalaljilani" /> </p>
 
