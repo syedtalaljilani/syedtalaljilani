@@ -23,7 +23,8 @@
   <br>
   <strong>💬 Ask me about:</strong> Full Stack Web, App, and CyberSecurity
   <br>
-  <strong>📫 How to reach me:</strong> [syedtalaljilani.dev@gmail.com](mailto:syedtalaljilani.dev@gmail.com)
+  <strong>📫 How to reach me:</strong> <a href="mailto:syedtalaljilani.dev@gmail.com">syedtalaljilani.dev@gmail.com</a>
+
 </p>
 
 <!-- GitHub Stats and Languages Section -->
