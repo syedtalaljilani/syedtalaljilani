@@ -14,7 +14,7 @@
 <!-- Introduction Section -->
 <div align="left">
   <h1>👋 Hey there, I'm Syed Talal Jilani</h1>
-  <p>🚀 Senior Full Stack Developer | Cybersecurity Enthusiast</p>
+  <p>🚀 Technical Lead | Cybersecurity Enthusiast</p>
 </div>
 
 <!-- Current Work and Contact Section -->
