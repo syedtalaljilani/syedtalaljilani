@@ -14,12 +14,12 @@
 <!-- Introduction Section -->
 <div align="left">
   <h1>👋 Hey there, I'm Syed Talal Jilani</h1>
-  <p>🚀 Technical Lead | Cybersecurity Enthusiast</p>
+  <p>🚀 Software Engineer | Cybersecurity Enthusiast</p>
 </div>
 
 <!-- Current Work and Contact Section -->
 <p align="left"> 
-  <strong>🔭 Currently working on:</strong> Fiyxer
+  <strong>🔭 Currently working on:</strong> Faisal Movers
   <br>
   <strong>💬 Ask me about:</strong> Frontend production-grade topics like responsive design, performance optimization, and advanced JavaScript frameworks. Backend production-grade areas such as scalable architecture, database optimization, and server-side technologies.
 
